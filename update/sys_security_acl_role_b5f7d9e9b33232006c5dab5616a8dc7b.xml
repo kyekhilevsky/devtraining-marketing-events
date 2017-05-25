@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-17 21:10:34</sys_created_on>
+        <sys_id>b5f7d9e9b33232006c5dab5616a8dc7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_market_events_2_attendee.sn_market_events_2.attendee_user</sys_name>
+        <sys_package display_value="Marketing Events Application" source="sn_market_events_2">6040c525b33232006c5dab5616a8dca1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events Application">6040c525b33232006c5dab5616a8dca1</sys_scope>
+        <sys_security_acl display_value="sn_market_events_2_attendee">bdf7d9e9b33232006c5dab5616a8dc78</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b5f7d9e9b33232006c5dab5616a8dc7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-17 21:10:34</sys_updated_on>
+        <sys_user_role display_value="sn_market_events_2.attendee_user" name="sn_market_events_2.attendee_user">e9f799e9b33232006c5dab5616a8dca0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

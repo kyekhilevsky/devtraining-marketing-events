@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_market_events_2.equipment_request_user" name="sn_market_events_2.equipment_request_user">a3a1cd25b33232006c5dab5616a8dc97</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-17 19:33:12</sys_created_on>
+        <sys_id>6ba1cd25b33232006c5dab5616a8dc98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a3a1cd25b33232006c5dab5616a8dc97</sys_name>
+        <sys_package display_value="Marketing Events Application" source="sn_market_events_2">6040c525b33232006c5dab5616a8dca1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events Application">6040c525b33232006c5dab5616a8dca1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6ba1cd25b33232006c5dab5616a8dc98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-17 19:33:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
